@@ -4044,3 +4044,78 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.eclipse.ui 2 2 2021-03-01 12:04:04.571
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:27:11.084
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:27:11.085
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:27:11.087
+!MESSAGE buffering callback sts4.classpath.qMdTYfnC rakuten-app false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:27:11.087
+!MESSAGE executing callback sts4.classpath.qMdTYfnC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:27:11.092
+!MESSAGE executing callback sts4.classpath.qMdTYfnC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:27:35.978
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:27:35.981
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:27:35.983
+!MESSAGE buffering callback sts4.classpath.qMdTYfnC rakuten-app false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:27:35.983
+!MESSAGE executing callback sts4.classpath.qMdTYfnC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:27:35.989
+!MESSAGE executing callback sts4.classpath.qMdTYfnC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:32:23.555
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:32:23.557
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:32:23.558
+!MESSAGE buffering callback sts4.classpath.qMdTYfnC product-app false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:32:23.559
+!MESSAGE executing callback sts4.classpath.qMdTYfnC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:32:23.562
+!MESSAGE executing callback sts4.classpath.qMdTYfnC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:37:53.302
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:37:53.306
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:37:53.307
+!MESSAGE buffering callback sts4.classpath.qMdTYfnC product-app false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:37:53.308
+!MESSAGE executing callback sts4.classpath.qMdTYfnC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:37:53.318
+!MESSAGE executing callback sts4.classpath.qMdTYfnC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:42:57.257
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:42:57.260
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:42:57.262
+!MESSAGE buffering callback sts4.classpath.qMdTYfnC product-app false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:42:57.263
+!MESSAGE executing callback sts4.classpath.qMdTYfnC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-01 12:42:57.270
+!MESSAGE executing callback sts4.classpath.qMdTYfnC SUCCESS [done]
