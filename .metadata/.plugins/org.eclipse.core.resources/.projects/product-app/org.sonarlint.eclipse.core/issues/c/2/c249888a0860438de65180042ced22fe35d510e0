@@ -1,0 +1,21 @@
+
+b
+java:S1118":Add a private constructor to hide the implicit public one.(ÀÊë3RMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ÀƒÁµRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(±ð€¼ûÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(Ýß•ÃøÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1854"7Remove this useless assignment to local variable "dao".(„œ°«RMAJORZ
+CODE_SMELL
+d	java:S125 "<This block of commented-out lines of code should be removed.(ª˜ÓRMAJORZ
+CODE_SMELL
+_
+java:S1135&"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+Q
+java:S1481"(Remove this unused "dao" local variable.(„œ°«RMINORZ
+CODE_SMELL

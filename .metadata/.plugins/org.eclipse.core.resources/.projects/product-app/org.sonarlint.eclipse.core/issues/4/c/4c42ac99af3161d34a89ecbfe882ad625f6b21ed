@@ -1,0 +1,9 @@
+
+w
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(î¥”¢þÿÿÿÿH”RCRITICALZVULNERABILITY
+„
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ìôŸ_H•RMINORZ
+CODE_SMELL
+`
+java:S3740)"/Provide the parametrized type for this generic.(î¥”¢þÿÿÿÿH–RMAJORZ
+CODE_SMELL

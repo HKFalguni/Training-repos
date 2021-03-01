@@ -1,0 +1,25 @@
+
+Y
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿRMINORZ
+CODE_SMELL
+n
+java:S1128
+"@Remove this unused import 'com.rakuten.training.dal.ProductDAO'.(Ùó×ıûÿÿÿÿRMINORZ
+CODE_SMELL
+h
+java:S1128"@Remove this unused import 'com.rakuten.training.domain.Product'.(ˆ¦¨RMINORZ
+CODE_SMELL
+q
+java:S1854"CRemove this useless assignment to local variable "springContainer".(åÉÕúÿÿÿÿRMAJORZ
+CODE_SMELL
+d	java:S125"<This block of commented-out lines of code should be removed.(”òĞüRMAJORZ
+CODE_SMELL
+d	java:S125"<This block of commented-out lines of code should be removed.(ää·RMAJORZ
+CODE_SMELL
+d	java:S125"<This block of commented-out lines of code should be removed.(¼ŠÓ†RMAJORZ
+CODE_SMELL
+i	java:S125"<This block of commented-out lines of code should be removed.(òçì—şÿÿÿÿRMAJORZ
+CODE_SMELL
+b
+java:S1481"4Remove this unused "springContainer" local variable.(åÉÕúÿÿÿÿRMINORZ
+CODE_SMELL

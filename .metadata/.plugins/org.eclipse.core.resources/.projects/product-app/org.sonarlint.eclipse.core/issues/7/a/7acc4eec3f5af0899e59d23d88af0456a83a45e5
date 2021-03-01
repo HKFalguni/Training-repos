@@ -1,0 +1,9 @@
+
+X
+java:S3740)"/Provide the parametrized type for this generic.(ÖŽ²êRMAJORZ
+CODE_SMELL
+‡
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔÂûƒüÿÿÿÿRMINORZ
+CODE_SMELL
+o
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(ÖŽ²êRCRITICALZVULNERABILITY
